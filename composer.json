@@ -1,0 +1,6 @@
+{
+	"require": {
+		"simplesamlphp/simplesamlphp": "1.13.*",
+		"openid/php-openid": "dev-master#a287b2d85e753c84b3b883ed8ee3ffe8692c8477 as 2.2.2"
+	}
+}
