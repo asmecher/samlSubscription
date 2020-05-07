@@ -1,0 +1,27 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-05-07T23:36:51+00:00\n"
+"PO-Revision-Date: 2020-05-07T23:36:51+00:00\n"
+"Language: \n"
+
+msgid "plugins.generic.samlSubscription.name"
+msgstr "SAML/Módulo de suscripción Shibboleth"
+
+msgid "plugins.generic.samlSubscription.description"
+msgstr "Este módulo delega la verificación de suscripción a un sistema externo SAML/Shibboleth para un comportamiento similar a la modalidad inicio de sesión único."
+
+msgid "plugins.generic.samlSubscription.settings"
+msgstr "Ajustes"
+
+msgid "plugins.generic.samlSubscription.samlSubscriptionSettings"
+msgstr "Ajustes SAML/Shibboleth"
+
+msgid "plugins.generic.samlSubscription.settings.description"
+msgstr "Utilice el siguiente formulario para configurar el servicio externo que proporcionará la confirmación del estado de la suscripción respecto al contenido de suscripción de OJS."
